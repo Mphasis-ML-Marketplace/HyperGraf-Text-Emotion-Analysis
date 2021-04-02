@@ -11,5 +11,5 @@ Emotion Analysis algorithm uses Natural Language Processing (NLP) to predict the
 * Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here]
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-q6cplhrtrtytm?qid=1617350177169&sr=0-1&ref_=srh_res_product_title)
 
